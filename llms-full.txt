@@ -1,0 +1,43 @@
+# Geotechnik — Cologne
+
+> Geotechnical engineering services in Cologne, Deutschland.
+
+## Services
+- [Anker](https://cologne.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://cologne.geotechnik.vip/atterberg-grenzen/)
+- [Aushub Monitoring](https://cologne.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://cologne.geotechnik.vip/bodenplatten/)
+- [Boschungsstabilitat](https://cologne.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://cologne.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://cologne.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://cologne.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://cologne.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://cologne.geotechnik.vip/fundamente/)
+- [In Situ Durchlassigkeit](https://cologne.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://cologne.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://cologne.geotechnik.vip/korngrossenanalyse/)
+- [Masw](https://cologne.geotechnik.vip/masw/)
+- [Pfahle](https://cologne.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://cologne.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://cologne.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://cologne.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://cologne.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://cologne.geotechnik.vip/schurfgruben/)
+- [Seismische Mikrozonierung](https://cologne.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://cologne.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://cologne.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://cologne.geotechnik.vip/starrer-belag/)
+- [Stutzmauern](https://cologne.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://cologne.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://cologne.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://cologne.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://cologne.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://cologne.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://cologne.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://cologne.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Cologne, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
